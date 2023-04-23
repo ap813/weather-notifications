@@ -1,0 +1,7 @@
+*.pyc
+venv/
+.DS_Store
+lambda.zip
+layer.zip
+__pycache__
+function/python
